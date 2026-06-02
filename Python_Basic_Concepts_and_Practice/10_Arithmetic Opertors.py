@@ -1,0 +1,17 @@
+A=4
+B=8
+c=80
+D=5
+E=23
+F=-10
+print(A+B)
+print(A-B)
+print(c*B)
+print(c/B)
+print(B%A)
+print(A%B)
+print(A//B)
+print(D%A)
+print(D**B)
+print(E//A)
+print(E//F)
