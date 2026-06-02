@@ -30,5 +30,11 @@ print(type(B))
 C=108749396==87993
 print(C)
 
+D=87!=87
+print(D)
+print(type(D))
+
+
+
 
 
