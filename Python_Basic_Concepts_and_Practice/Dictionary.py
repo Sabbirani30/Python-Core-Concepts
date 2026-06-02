@@ -12,8 +12,10 @@ firstdictionary={
 
 }
 print(firstdictionary)
+print(type(firstdictionary))
 
 firstdictionary={
+    "Name":"Sabbir Hossain Anik",
     "Name":"Sabbir Hossain Anik",
     "ID":"2024100000294",
     "Year":"2024",
@@ -28,3 +30,14 @@ firstdictionary={
 }
 for key,value in firstdictionary.items():
     print(f"{key}: {value}")
+
+seconddictionary={
+    "Name ": "Anik",
+    "name ": "Anik",
+    "Name ": "Anik",
+
+
+
+}
+print(seconddictionary)
+
