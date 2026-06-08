@@ -28,6 +28,31 @@ else:
     print("Sabbir is equal to Sabbir")
 
 
+#_Grade_Calculator:
+Marks= int (input("Enter Marks: "))
+if Marks>=80:
+    print("A+")
+elif Marks>=70:
+    print("A")
+elif Marks>=60:
+    print("A-")
+elif Marks>=50:
+    print("B")
+elif Marks>=40:
+    print("B-")
+elif Marks>=33:
+    print("C")
+else:
+    print("F")
+
+
+
+
+
+
+
+
+
 
 
 
