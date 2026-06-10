@@ -22,3 +22,14 @@ for Friend in Friends:
     if Friend == "Rohan":
         continue
     print(Friend)
+
+# Range (range(stop))
+
+for Number in range(11):
+    print(Number)
+
+for Numbers in range(9):
+
+    if Numbers==5:
+        break
+    print(Numbers)
