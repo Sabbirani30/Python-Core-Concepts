@@ -33,3 +33,19 @@ for Numbers in range(9):
     if Numbers==5:
         break
     print(Numbers)
+
+ # Range (range( start, stop)
+
+for Digit in range(10,35):
+    print(Digit)
+
+for Digit in range(10,35):
+    if Digit==32:
+        break
+    print(Digit)
+
+for Digit in range(10,35):
+    if Digit==32:
+        continue
+    print(Digit)
+
