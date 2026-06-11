@@ -5,6 +5,16 @@ Friends = ["Anik", "Shifad", "Tamim", "Rohan", "Nabibl", "Fahad"]
 for Friend in Friends:
     print(Friend)
 
+
+numbers = [10, 5, 20, 8, 30]
+
+for n in numbers:
+    if n > 15:
+        print( f"{n} Big Number ")
+    else:
+        print(f"{n} Small Number ")
+
+
 # Break statement
 Friends = ["Anik", "Shifad", "Tamim", "Rohan", "Nabibl", "Fahad"]
 
