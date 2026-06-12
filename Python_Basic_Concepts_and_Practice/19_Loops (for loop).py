@@ -66,3 +66,8 @@ for number in Anik:
         print(number)
         break
 
+numbers = [10, 20, 30, 40, 50]
+
+for n in numbers:
+
+    print(f" {n}")
