@@ -10,6 +10,10 @@ print(user , user1 , user2 , Name)
 anikIsBigMan="Who"
 print(anikIsBigMan,"is Big Man?")
 
+Number="01729920758"
+print("Phone Number is",Number)
+
+
 #Multiple Assignment
 A,B,C,D=34,40,50,60
 print(A)
