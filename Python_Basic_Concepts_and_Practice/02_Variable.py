@@ -13,6 +13,10 @@ print(anikIsBigMan,"is Big Man?")
 Number="01729920758"
 print("Phone Number is",Number)
 
+Location="Shapla Housing"
+House_No="201/1"
+print(Location,House_No)
+
 
 #Multiple Assignment
 A,B,C,D=34,40,50,60
