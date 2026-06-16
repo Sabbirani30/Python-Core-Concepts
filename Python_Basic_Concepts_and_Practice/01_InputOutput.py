@@ -11,4 +11,5 @@ MotherName=input("Enter your mother name:")
 yourphoneNumber=input("Enter Your Phone Number")
 SchoolName=input("Enter your school name:")
 BestfriendName=input("Enter your Best Friend Name:")
+BoringSubject=input("Enter your Boring Subject:")
 
