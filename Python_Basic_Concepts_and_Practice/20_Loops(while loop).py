@@ -23,6 +23,11 @@ while RandomNumber <=100:
     print(RandomNumber,"Sabbir ")
     RandomNumber=RandomNumber+1
 
+Number=1
+while Number <=10:
+    print(Number,"Anik ")
+    Number=Number+1
+
 
 
 
