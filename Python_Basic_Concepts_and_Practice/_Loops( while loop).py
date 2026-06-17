@@ -9,3 +9,14 @@ while StudentID <=300:
     print("Student ID Number is ",StudentID)
     StudentID=StudentID+1
     print("Student ID Number is Finished!!!!")
+
+SerialNumber= 1
+while SerialNumber <=10:
+    print(SerialNumber,"Sabbir ")
+    print(SerialNumber+1, "Likhon")
+    print(SerialNumber+2, "Anik")
+    SerialNumber=SerialNumber+3
+    print("Finished!!")
+
+
+
