@@ -18,5 +18,11 @@ while SerialNumber <=10:
     SerialNumber=SerialNumber+3
     print("Finished!!")
 
+RandomNumber= 50
+while RandomNumber <=100:
+    print(RandomNumber,"Sabbir ")
+    RandomNumber=RandomNumber+1
+
+
 
 
