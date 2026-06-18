@@ -29,4 +29,14 @@ print(Business[:3])
 print(Business[::2]) #(Start,Stop,Step)
 print(Business[-1]) # Range of Negative Indexes ( Pichon theke Shamne ashe)
 
+SchoolName=["Monipur","Bangabandhu","Sher-E-Bangla","Mohammadpur Govt." ,294,299,298,314]
+print(SchoolName)
+print(type(SchoolName))
+print(SchoolName[2])
+print(SchoolName[3])
+print(SchoolName[2:])
+print(SchoolName[0:2])
+print(SchoolName[-7:-3])
+
+
 
