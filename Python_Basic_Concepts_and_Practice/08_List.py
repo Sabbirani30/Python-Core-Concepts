@@ -38,5 +38,18 @@ print(SchoolName[2:])
 print(SchoolName[0:2])
 print(SchoolName[-7:-3])
 
+CollegeName=["Dhaka" , "Dhanmondi Ideal", "Mirpur Girls" , "BAF", "Adamjee" ,10,11,12,13,14,]
+print(CollegeName)
+print(type(CollegeName))
+print(CollegeName[0])
+print(CollegeName[1])
+print(CollegeName[2])
+print(CollegeName[0:])
+print(CollegeName[0::2])
+print(CollegeName[-5:-1])
+print(CollegeName[-3:])
+print(CollegeName[:-1])
+print(CollegeName[-1:])
+
 
 
