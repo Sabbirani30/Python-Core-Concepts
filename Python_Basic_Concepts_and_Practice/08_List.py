@@ -21,3 +21,12 @@ print(Course[:5]) # Range Of Index ( Range nirdharon kora hoy , koto Numer index
 print(Course[0:3])
 
 
+Business=["Chips","Noodles", "Ice-cream","Drinks",]
+print(Business)
+print(type(Business))
+print(Business[3])
+print(Business[:3])
+print(Business[::2]) #(Start,Stop,Step)
+print(Business[-1]) # Range of Negative Indexes ( Pichon theke Shamne ashe)
+
+
