@@ -71,6 +71,10 @@ Business=["Chips","Noodles", "Ice-cream","Drinks",]
 Business.append("Potato")
 print(Business)
 
+#Remove Function
+Course=["Machine Learning","Django","FastApi","Python","RestApi"]
+Course.remove("RestApi")
+print(Course)
 
 
 
