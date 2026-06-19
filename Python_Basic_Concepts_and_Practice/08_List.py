@@ -58,7 +58,6 @@ CollegeName[3]="National"
 print(CollegeName)
 
 #Insert Function
-
 Business=["Chips","Noodles", "Ice-cream","Drinks",]
 Business.insert(2,"Motijeel Ideal")
 print(Business)
@@ -67,6 +66,10 @@ print(Business)
 Business.insert(1,"Juice")
 print(Business)
 
+#Append Function: (New Item Add)
+Business=["Chips","Noodles", "Ice-cream","Drinks",]
+Business.append("Potato")
+print(Business)
 
 
 
