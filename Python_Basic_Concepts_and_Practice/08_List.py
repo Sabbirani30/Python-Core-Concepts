@@ -51,5 +51,12 @@ print(CollegeName[-3:])
 print(CollegeName[:-1])
 print(CollegeName[-1:])
 
+#Item Change
+CollegeName=["Dhaka" , "Dhanmondi Ideal", "Mirpur Girls" , "BAF", "Adamjee" ,10,11,12,13,14,]
+CollegeName[0]="Mirpur"
+CollegeName[3]="National"
+print(CollegeName)
+
+
 
 
