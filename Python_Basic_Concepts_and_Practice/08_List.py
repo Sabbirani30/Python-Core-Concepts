@@ -88,6 +88,13 @@ List=["Banana","Mango","Apple"]
 del List[0]
 print(List)
 
+#Clear() Function:
+List=["Banana","Mango","Apple"]
+List.clear()
+print(List)
+
+
+
 
 
 
