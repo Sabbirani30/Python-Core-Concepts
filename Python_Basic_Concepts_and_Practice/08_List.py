@@ -93,6 +93,11 @@ List=["Banana","Mango","Apple"]
 List.clear()
 print(List)
 
+#Sort() Function:
+Alphabetic=["Django","HTML","CSS","Java","Python"]
+Alphabetic.sort()
+print(Alphabetic)
+
 
 
 
