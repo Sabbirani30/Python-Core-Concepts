@@ -76,5 +76,12 @@ Course=["Machine Learning","Django","FastApi","Python","RestApi"]
 Course.remove("RestApi")
 print(Course)
 
+#Pop() Function:
+
+List=["Banana","Mango","Apple"]
+List.pop()
+print(List)
+List.pop(0)
+print(List)
 
 
