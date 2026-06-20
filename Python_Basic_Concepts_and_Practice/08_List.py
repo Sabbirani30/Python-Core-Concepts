@@ -77,11 +77,17 @@ Course.remove("RestApi")
 print(Course)
 
 #Pop() Function:
-
 List=["Banana","Mango","Apple"]
 List.pop()
 print(List)
 List.pop(0)
 print(List)
+
+# del Keyword:
+List=["Banana","Mango","Apple"]
+del List[0]
+print(List)
+
+
 
 
