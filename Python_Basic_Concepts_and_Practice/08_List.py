@@ -98,6 +98,17 @@ Alphabetic=["Django","HTML","CSS","Java","Python"]
 Alphabetic.sort()
 print(Alphabetic)
 
+#Sort(Reverse=True)
+Alphabetic.sort(reverse=True)
+print(Alphabetic)
+
+Numbers=[1,2,3,4,5,6,7,8,9,10]
+Numbers.sort(reverse=True)
+print(Numbers)
+
+Numbers=[100,378,380,93,8392,38309]
+Numbers.sort(reverse=True)
+print(Numbers)
 
 
 
