@@ -31,3 +31,10 @@ Cd= list(FifthTuple)
 Cd[2]="ML"
 FifthTuple=tuple(Cd)
 print("Update Item:",FifthTuple)
+
+#Add Item:
+FifthTuple=("Anik","Southeast","CSE",294,290)
+Cd= list(FifthTuple)
+Cd.append("Data science")
+FifthTuple=tuple(Cd)
+print("Update Item:",FifthTuple)
