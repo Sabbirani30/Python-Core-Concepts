@@ -1,3 +1,5 @@
+from linecache import updatecache
+
 FirstTuple= ("Anik","Sabbir","Likhon","34","Anik","Likhon")
 print(FirstTuple)
 print(type(FirstTuple))
@@ -15,3 +17,9 @@ _3rdTuple=("Anik","Southeast","CSE","294")
 print(_3rdTuple)
 print(type(_3rdTuple))
 print(_3rdTuple)
+
+#Access Items:
+_4thTuple=("Anik","Southeast","CSE","294")
+_4thTuple[2]
+print(_4thTuple[2])
+print(type(_4thTuple))
